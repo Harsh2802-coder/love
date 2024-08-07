@@ -8,10 +8,6 @@ button{
     background-color: yellow;
 }
 
-#btny:hover{
-    cursor: pointer;
-    background-color:lightgreen;
-}
 
 #b{
    display: flex;
